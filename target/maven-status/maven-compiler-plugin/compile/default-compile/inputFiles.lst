@@ -1,4 +1,4 @@
-/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/spring-boot-h2-database-crud/src/main/java/com/bezkoder/spring/jpa/h2/controller/TutorialController.java
-/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/spring-boot-h2-database-crud/src/main/java/com/bezkoder/spring/jpa/h2/model/Tutorial.java
-/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/spring-boot-h2-database-crud/src/main/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2Application.java
-/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/spring-boot-h2-database-crud/src/main/java/com/bezkoder/spring/jpa/h2/repository/TutorialRepository.java
+/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/integ-depl-examen-back/src/main/java/com/bezkoder/spring/jpa/h2/controller/TutorialController.java
+/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/integ-depl-examen-back/src/main/java/com/bezkoder/spring/jpa/h2/model/Tutorial.java
+/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/integ-depl-examen-back/src/main/java/com/bezkoder/spring/jpa/h2/repository/TutorialRepository.java
+/Users/adam/Documents/M1-DEV-WEB/integration-deploiement/exam/integ-depl-examen-back/src/main/java/com/bezkoder/spring/jpa/h2/SpringBootJpaH2Application.java
